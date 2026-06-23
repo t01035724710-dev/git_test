@@ -4,3 +4,4 @@ confict
 rebaseExample
 secondrebase
 addsomethingwrong
+addLoginFunction
